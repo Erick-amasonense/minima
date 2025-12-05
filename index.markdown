@@ -33,8 +33,8 @@ Daft Punk es conocido por su estilo único, que mezcla *house*, *funk*, *disco* 
 
 ## Publicaciones recientes
 
-1. *Discovery: El disco que cambió la música electrónica*
-2. *El legado de Daft Punk en la cultura pop*
-3. *Análisis de Random Access Memories y sus premios Grammy*
+1. [Random Access Memories]({{ post_url 2025-11-20-random-access-memories }})
+2. [La historia de los cascos]({{ post_url 2025-12-2-historia-de-los-cascos }})
+3. [Discovery — Análisis del álbum]({{ post_url 2025-12-2-discovery-analisis }})
 
 ---
