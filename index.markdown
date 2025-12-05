@@ -26,11 +26,3 @@ Daft Punk es conocido por su estilo único, que mezcla *house*, *funk*, *disco* 
 - **Multimedia**: Videos, imágenes y remixes de sus canciones más icónicas.
 
 ---
-
-## Publicaciones recientes
-
-1. [Random Access Memories]({{ post_url 2025-11-20-random-access-memories }})
-2. [La historia de los cascos]({{ post_url 2025-12-2-historia-de-los-cascos }})
-3. [Discovery — Análisis del álbum]({{ post_url 2025-12-2-discovery-analisis }})
-
----
