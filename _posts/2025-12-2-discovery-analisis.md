@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "La historia de los cascos de Daft Punk"
-date: 2025-11-15
+title: "discovery analisis"
+date: 2025-12-2
 categories: curiosidades estilo
 ---
 
