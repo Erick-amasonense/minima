@@ -4,7 +4,7 @@
 
 ---
 layout: home
-title: "Bienvenidos al blog de Daft Punk"
+layout: home title: “Bienvenidos al blog de Daft Punk”
 ---
 
 # 🎵 Bienvenidos al Blog de Daft Punk
