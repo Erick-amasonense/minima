@@ -1,0 +1,35 @@
+title: "Blog de Daft Punk"
+email: ""
+description: "Un blog dedicado a Daft Punk, análisis de discos, historia y más."
+baseurl: "" # déjalo vacío si tu sitio es erick-amasonense.github.io
+url: "https://erick-amasonense.github.io"
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Opciones del tema minima
+minima:
+  skin: classic
+  social_links:
+    github: erick-amasonense
+
+# Markdown config (opcional pero recomendado)
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Estas carpetas no deben ser procesadas
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+  - package.json
+  - package-lock.json
+
+# Enlaces permanentes para los posts
+permalink: /:year/:month/:day/:title/
