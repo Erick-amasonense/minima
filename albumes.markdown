@@ -12,33 +12,33 @@ En esta página encontrarás una recopilación de los **álbumes más importante
 
 ## 🎧 *Homework* (1997)
 
-![Homework](assets/images/homework.jpg)
+![Homework](img/homework.png)
 
 **Homework** fue el álbum debut de Daft Punk, un disco fundamental en la expansión mundial del *French House*. Canciones como **Da Funk** y **Around the World** se convirtieron en clásicos instantáneos.
 
 **Pistas destacadas:**
-- Around the World  
-- Da Funk  
-- Revolution 909  
+- Around the World
+- Da Funk
+- Revolution 909
 
 ---
 
 ## 🌟 *Discovery* (2001)
 
-![Discovery](assets/images/discovery.jpg)
+![Discovery](img/discovery.png)
 
 Posiblemente su álbum más influyente. **Discovery** fusiona *house*, *disco*, *electro-pop* y música retro. También inspiró la película anime *Interstella 5555*.
 
 **Pistas destacadas:**
-- One More Time  
-- Harder, Better, Faster, Stronger  
-- Digital Love  
+- One More Time
+- Harder, Better, Faster, Stronger
+- Digital Love
 
 ---
 
 ## 🔧 *Human After All* (2005)
 
-![Human After All](assets/images/human-after-all.jpg)
+![Human After All](img/human-after-all.png)
 
 Un álbum minimalista y repetitivo que, aunque inicialmente polémico, sirvió como base para sus espectaculares actuaciones en vivo, especialmente en la gira **Alive 2007**.
 
@@ -51,7 +51,7 @@ Un álbum minimalista y repetitivo que, aunque inicialmente polémico, sirvió c
 
 ## 🏆 *Random Access Memories* (2013)
 
-![Random Access Memories](assets/images/ram.jpg)
+![Random Access Memories](img/ram.png)
 
 El trabajo más ambicioso del dúo, profundamente inspirado en los estudios de grabación clásicos de los años 70 y 80. Ganó **5 premios Grammy**, incluyendo Álbum del Año.
 
@@ -64,7 +64,7 @@ El trabajo más ambicioso del dúo, profundamente inspirado en los estudios de g
 
 ## 📀 *Alive 1997* y *Alive 2007*
 
-![Alive](assets/images/alive.jpg)
+![Alive](img/alive.png)
 
 Aunque no son álbumes de estudio, los discos en vivo **Alive 1997** y **Alive 2007** son fundamentales para comprender la evolución del dúo.  
 Particularmente **Alive 2007** es considerado uno de los mejores álbumes en vivo de la historia de la música electrónica.

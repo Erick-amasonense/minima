@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "discovery analisis"
-date: 2025-12-2
+date: 2025-12-02
 categories: curiosidades estilo
 ---
 
@@ -9,7 +9,7 @@ categories: curiosidades estilo
 
 Los cascos se convirtieron en el **símbolo visual** por excelencia de Daft Punk. Aunque comenzaron sin ocultar sus rostros, el concepto robot surgió durante la era *Discovery*.
 
-![Daft Punk cascos](assets/images/daft-punk-cascos.jpg)
+![Daft Punk cascos](img/cascos.png)
 
 ## 🛠️ ¿Cómo nacieron los cascos?
 
